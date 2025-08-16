@@ -7,6 +7,9 @@ The app integrates with the OpenWeatherMap API to fetch up-to-date weather data 
 🛠 Technologies Used
 
 HTML → Structure of the web app
+
 CSS → Styling and layout design
+
 JavaScript → Fetching API data and interactivity
+
 OpenWeatherMap API → Real-time weather data
