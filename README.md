@@ -1,6 +1,13 @@
 # Weather-App
-I have used HTML5 to create a clean structure for the input field and display sections. 
+This is a Weather Forecasting Web Application that provides real-time weather updates such as temperature, humidity, and wind speed for any city entered by the user.
+The app integrates with the OpenWeatherMap API to fetch up-to-date weather data and displays it in a clean, user-friendly interface.
 
-CSS3 was applied to design a visually appealing layout with responsive design features, using Flexbox and media queries to ensure compatibility across devices. 
+🛠 Technologies Used
 
-JavaScript powered the core functionality by capturing user input (city name), sending requests to the OpenWeatherMap API, and displaying real-time data like temperature, humidity, and wind speed. The app updates dynamically based on user input, demonstrating asynchronous programming and API integration.
+HTML → Structure of the web app
+
+CSS → Styling and layout design
+
+JavaScript → Fetching API data and interactivity
+
+OpenWeatherMap API → Real-time weather data
